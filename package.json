@@ -10,8 +10,10 @@
     "test": "mocha test"
   },
   "dependencies": {
-    "twig": "^0.8.2",
-    "async": "^1.3.0"
+    "async": "^1.3.0",
+    "commonmark": "^0.26.0",
+    "slug": "^0.9.1",
+    "twig": "^0.8.2"
   },
   "devDependencies": {
     "metalsmith": "^1.0.0",
